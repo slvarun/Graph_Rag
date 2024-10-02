@@ -1,0 +1,11 @@
+streamlit==1.25.0
+langchain==0.94.0
+langchain-community==0.1.0
+langchain-experimental==0.1.0
+langchain-core==0.1.0
+neo4j==5.9.0
+pydantic==1.10.9
+huggingface-hub==0.17.3
+groq==0.1.2
+python-dotenv==1.0.0
+logging==0.5.1.2
