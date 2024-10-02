@@ -7,8 +7,6 @@ This project is a **Graph-based Retrieval-Augmented Generation (RAG) system** th
 - [How the App Works](#how-the-app-works)
 - [Benefits](#benefits)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 
 ---
 
